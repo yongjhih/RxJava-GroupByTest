@@ -1,3 +1,3 @@
 ```
-./gradlew -PmainClass=com.github.yongjhih.GroupByTest execute
+./gradlew execute
 ```

@@ -7,7 +7,7 @@ import rx.observables.*;
 import rx.util.*;
 import rx.internal.operators.*;
 
-public class GroupByTest {
+public class Main {
     public static void main(String[] args) {
         /* original */
         Observable.range(1, 10)

@@ -22,7 +22,8 @@ repositories {
 }
 
 dependencies {
-    compile 'io.reactivex:rxjava:1.+'
+    //compile 'io.reactivex:rxjava:1.+'
+    compile project(':RxJava')
 }
 
 task execute(type:JavaExec) {

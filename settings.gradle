@@ -1,0 +1,6 @@
+//include ':RxAndroid:rxandroid'
+//project(':RxAndroid:rxandroid').projectDir = new File(settingsDir, '../RxAndroid/rxandroid')
+//include ':RxAndroid'
+//project(':RxAndroid').projectDir = new File(settingsDir, '../RxAndroid')
+include ':RxJava'
+project(':RxJava').projectDir = new File(settingsDir, '../RxJava')
